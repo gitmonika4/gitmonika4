@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Monika 👋
 
-<!--
-**gitmonika4/gitmonika4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 📱 Flutter Mobile App Developer
+- 🔥 Building modern mobile applications using Flutter & Firebase
+- 🚀 Creator of **TaskNest**
+- 🌱 Currently learning advanced Flutter development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Firebase
+- Cloudinary
+- Git & GitHub
+- VS Code
+
+---
+
+## 📱 Featured Project
+
+### 🚀 TaskNest
+
+A modern Flutter-based student task management application.
+
+**Features**
+- ✅ Task Management
+- 🔔 Local Notifications
+- 📅 Calendar View
+- 📊 Statistics Dashboard
+- 👤 User Authentication
+- ☁️ Cloudinary Profile Images
+- 🌙 Dark Mode
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/gitmonika4
+- LinkedIn: *(Add your LinkedIn URL here)*
+
+---
+
+⭐ Thanks for visiting my profile!
