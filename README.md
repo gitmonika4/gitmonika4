@@ -40,7 +40,7 @@ A modern Flutter-based student task management application.
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/gitmonika4
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: https://www.linkedin.com/in/monika-k-0395b1302
 
 ---
 
